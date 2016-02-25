@@ -1,0 +1,24 @@
+{
+  "name": "simple_dashboard",
+  "homepage": "https://github.com/jjcorreao/hackathon-2016-02",
+  "authors": [
+    "Joaquin Correa <JoaquinCorrea@lbl.gov>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "jquery": "^2.2.1",
+    "babel": "*",
+    "react": "^0.14.7"
+  }
+}
